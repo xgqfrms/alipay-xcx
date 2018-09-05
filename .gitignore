@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+000-xyz/.DS_Store
+.DS_Store
+*/**/.DS_Store
