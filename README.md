@@ -10,3 +10,29 @@ https://docs.alipay.com/mini/developer/getting-started
 ## alipay mini app
 
 ![](https://images2018.cnblogs.com/blog/740516/201809/740516-20180906003210321-388254141.png)
+
+***
+
+# API & Docs
+
+> alipay mini app
+
+https://open.alipay.com/platform/home.htm
+
+## multi-platform
+
+https://docs.alipay.com/mini/multi-platform
+
+https://open-doc.dingtalk.com/microapp/personnal/fdzxvg
+
+https://docs.alipay.com/mini/introduce
+
+
+https://docs.alipay.com/mini/framework/overview
+
+## can i use
+
+https://docs.alipay.com/mini/api/can-i-use
+
+
+
